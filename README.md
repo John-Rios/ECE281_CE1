@@ -6,18 +6,18 @@ A circuit by John Rios
 
 | A | B | C | X |
 |:-:|:-:|:-:|:-:|
-|:0:|:0:|:0:|:0:|
-|:0:|:0:|:1:|:0:|
-|:0:|:1:|:0:|:0:|
-|:0:|:1:|:1:|:1:|
-|:1:|:0:|:0:|:1:|
-|:1:|:0:|:1:|:1:|
-|:1:|:1:|:0:|:0:|
-|:1:|:1:|:1:|:1:|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
 
 # Image of Testbench Waveform
 
-![alt text](https://github.com/John-Rios/ECE281_CE1/raw/master/src/Testbench_Waveform.JPG)
+!(https://github.com/John-Rios/ECE281_CE1/raw/master/src/Testbench_Waveform.JPG)
 
 # Analysis of Waveform
 
