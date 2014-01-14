@@ -17,7 +17,7 @@ A circuit by John Rios
 
 # Image of Testbench Waveform
 
-!(https://github.com/John-Rios/ECE281_CE1/src/Testbench_Waveform.JPG)
+!{Image Alt](https://github.com/John-Rios/ECE281_CE1/raw/master/Directory-Inside-Repository/TestbenchWaveform.JPG)
 
 # Analysis of Waveform
 
